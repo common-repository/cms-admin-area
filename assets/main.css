@@ -1,0 +1,23 @@
+/*logo uploader*/
+
+.logo-outer-admin-area{
+	float: left;
+	clear: both;
+  margin: 25px 0px;
+}
+.logo-outer-admin-area img{
+	max-width: 200px;
+	height: auto;
+	float: left;
+}
+.logo-outer-admin-area .button{
+	display: none;
+	float: left;
+	clear: both;
+	margin: 10px 0px;
+
+}
+.custom-image-outer .button{
+	display: block;
+
+}

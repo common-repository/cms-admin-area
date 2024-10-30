@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CMS admin area\n"
+"POT-Creation-Date: 2013-06-18 11:12+0100\n"
+"PO-Revision-Date: 2013-06-18 11:12+0100\n"
+"Last-Translator: \n"
+"Language-Team:  <netbiel@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../classes\n"
+
+#: ../classes/admin_area_class.php:186
+msgid "Admin Area Options"
+msgstr ""
+
+#: ../classes/admin_area_class.php:242
+msgid "Appearance"
+msgstr ""
+
+#: ../classes/admin_area_class.php:249
+msgid "Content summary"
+msgstr ""
+
+#: ../classes/admin_area_class.php:413
+msgid "Login Screen"
+msgstr ""
+
+#: ../classes/admin_area_class.php:421
+msgid "Admin panel style"
+msgstr ""
+
+#: ../classes/admin_area_class.php:429
+msgid "Footer"
+msgstr ""
+
+#: ../classes/admin_area_class.php:438
+msgid "Admin bar settings"
+msgstr ""
+
+#: ../classes/admin_area_class.php:446
+msgid "Dashboard settings"
+msgstr ""
+
+#: ../classes/admin_area_class.php:455
+msgid "Logo Image"
+msgstr ""
+
+#: ../classes/admin_area_class.php:460
+msgid "Change the logo of the login screen"
+msgstr ""
+
+#: ../classes/admin_area_class.php:467
+msgid "Login Screen URL"
+msgstr ""
+
+#: ../classes/admin_area_class.php:472
+msgid "Customize the URL of the logo"
+msgstr ""
+
+#: ../classes/admin_area_class.php:479
+msgid "Admin Horizontal Tabs"
+msgstr ""
+
+#: ../classes/admin_area_class.php:491
+msgid "Admin footer text"
+msgstr ""
+
+#: ../classes/admin_area_class.php:496
+msgid "choose \"0\" if you want to completly remove footer text"
+msgstr ""
+
+#: ../classes/admin_area_class.php:503
+msgid "Remove admin bar wp-logo"
+msgstr ""
+
+#: ../classes/admin_area_class.php:515
+msgid "Remove admin bar comments"
+msgstr ""
+
+#: ../classes/admin_area_class.php:527
+msgid "Remove admin bar updates"
+msgstr ""
+
+#: ../classes/admin_area_class.php:538
+msgid "Remove admin bar new user"
+msgstr ""
+
+#: ../classes/admin_area_class.php:550
+msgid "Remove dashboard metaboxes"
+msgstr ""
+
+#: ../classes/admin_area_class.php:561
+msgid "Remove welcome panel"
+msgstr ""
+
+#: ../classes/admin_area_class.php:573
+msgid "Add short link widget"
+msgstr ""
+
+#: ../classes/admin_area_class.php:584
+msgid "Add  widget content summary"
+msgstr ""
+
+#: ../classes/admin_area_class.php:614
+msgid "Meta Fields"
+msgstr ""
+
+#: ../classes/admin_area_class.php:622
+msgid "Hide site generator"
+msgstr ""
+
+#: ../classes/admin_area_class.php:627
+msgid "Remove wp_generator tag"
+msgstr ""
+
+#: ../classes/admin_area_class.php:634
+msgid "Hide RSD link"
+msgstr ""
+
+#: ../classes/admin_area_class.php:646
+msgid "Hide wlwmanifest.xml file"
+msgstr ""
+
+#: ../classes/admin_area_class.php:658
+msgid "Hide feed links"
+msgstr ""
+
+#: ../classes/admin_area_class.php:670
+msgid "Hide feed links extra"
+msgstr ""
+
+#: ../classes/admin_area_class.php:690
+msgid "Remove Notifications"
+msgstr ""
+
+#: ../classes/admin_area_class.php:698
+msgid "Remove screen options & help tab"
+msgstr ""
+
+#: ../classes/admin_area_class.php:707
+msgid "Hide  wordPress core update notice"
+msgstr ""
+
+#: ../classes/admin_area_class.php:719
+msgid "Hide plugin update notice"
+msgstr ""
+
+#: ../classes/admin_area_class.php:731
+msgid "Hide theme update notice"
+msgstr ""
+
+#: ../classes/admin_area_class.php:743
+msgid "Hide screen options"
+msgstr ""
+
+#: ../classes/admin_area_class.php:755
+msgid "Hide help tab"
+msgstr ""
+
+#: ../classes/admin_area_class.php:784
+msgid "Upload Logo"
+msgstr ""
+
+#: ../classes/admin_area_class.php:785
+msgid "Delete image"
+msgstr ""
+
+#: ../classes/admin_area_components.php:10
+msgid "Menus"
+msgstr ""
+
+#: ../classes/admin_area_components.php:11
+msgid "Widgets"
+msgstr ""
+
+#: ../classes/admin_area_components.php:12
+msgid "Themes"
+msgstr ""
+
+#: ../classes/admin_area_components.php:31
+msgid "Pages"
+msgstr ""
+
+#: ../classes/admin_area_components.php:34
+msgid "Posts"
+msgstr ""
+
+#: ../classes/admin_area_components.php:49
+msgid "Post list"
+msgstr ""
+
+#: ../classes/admin_area_components.php:65
+msgid "Add new post"
+msgstr ""
+
+#: ../classes/admin_area_components.php:67
+msgid "Add new page"
+msgstr ""
+
+#: ../views/option-page.php:4
+msgid "Admin Area Settings"
+msgstr ""
+
+#: ../views/option-page.php:8
+msgid "Visual Options"
+msgstr ""
+
+#: ../views/option-page.php:9
+msgid "Site Settings"
+msgstr ""
+
+#: ../views/option-page.php:10
+msgid "Extend Configuration"
+msgstr ""
